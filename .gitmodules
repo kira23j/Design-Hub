@@ -1,0 +1,3 @@
+[submodule "rustlabs"]
+	path = rustlabs
+	url = https://github.com/piVentures/rustlabs
